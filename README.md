@@ -90,3 +90,9 @@ E-Commerce-Analysis/
 ## Project Outcome
 
 Developed a four-page interactive Power BI dashboard supported by Excel and Python analysis, providing insights into financial performance, customer behavior, marketing effectiveness, and logistics operations.
+
+## Connect With Me
+
+- **LinkedIn:** [Youssef Yousri](https://www.linkedin.com/in/youssefyousri-analysis/)
+- **GitHub:** [Youssef Yousri](https://github.com/youssefyousri)
+
